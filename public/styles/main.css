@@ -1,0 +1,41 @@
+  
+  body {
+    min-height: 100vh;
+    background: #ffcdd2;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    box-sizing: border-box;
+
+  }
+
+  h1 {
+    color: #f44336;
+    font-family: "Titan One", cursive;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+    margin-top: 0;
+  }
+  
+  img {
+    height: 500px;
+    width: auto;
+  }
+
+  button {
+    background-color: #f44336;
+    color: #ffcdd2;
+    border-radius: 5px;
+    border-color: #f44336;
+    margin-top: 20px;
+  }
+
+ footer {
+    color: #f44336;
+    font-family: "Titan One", cursive;
+    margin-top: 10px;
+ }
+
+  
